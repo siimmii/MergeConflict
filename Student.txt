@@ -1,4 +1,4 @@
-ROll No:
-Name:
-Age:
-Dept:
+ROll No:100
+Name:Aa
+Age:0
+Dept:q
